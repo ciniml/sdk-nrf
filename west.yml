@@ -68,7 +68,7 @@ manifest:
     - name: zephyr
       repo-path: sdk-zephyr
       remote: ciniml
-      revision: b1c76998edb2252cc10bb911ca7a9973972d1888
+      revision: c383f11b5901d28550135151aec409ee7de470e4
       import:
         # In addition to the zephyr repository itself, NCS also
         # imports the contents of zephyr/west.yml at the above
