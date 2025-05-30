@@ -110,6 +110,7 @@ manifest:
           - tf-m-tests
           - uoscore-uedhoc
           - zcbor
+          - zephyr-lang-rust
           - zscilib
 
     # NCS repositories.
